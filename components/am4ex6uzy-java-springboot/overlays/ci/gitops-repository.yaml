@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: am4ex6uzy-java-springboot-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/am4ex6uzy-java-springboot-gitops
